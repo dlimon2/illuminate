@@ -35,7 +35,7 @@ Setting screen brightness to 80%:
 * In some cases, Illuminate might not work if the display driver or hardware does not support the xrandr method for brightness adjustment.
 * Feel free to contribute or report issues.
 
-## <a href="https://x.com/dlimon2" target="_blank">Follow me on Twitter!</a>
+## <a href="https://x.com/dlimon_" target="_blank">Follow me on Twitter!</a>
 
 
 
