@@ -1,4 +1,4 @@
-# ░░▒▒▓▓██ILLUMINATE
+# ░░▒▒▓▓██ I L L U M I N A T E
 ## Screen brightness utility for Linux Desktop
 
 Illuminate is a simple Bash script designed to provide easy control over screen brightness on Linux desktops.
